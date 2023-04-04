@@ -1,1 +1,8 @@
 geo_opt/
+geo_opt_test/
+stress_arr.txt
+log.txt
+forces_arr.txt
+energy_arr.txt
+error_force.txt
+df_data.pkl
